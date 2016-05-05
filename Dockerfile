@@ -1,4 +1,4 @@
-FROM elsdoerfer/gitolite
+FROM jimme/gitolite:openssh-6-6p1
 
 MAINTAINER jim.mei@centling.com
 
